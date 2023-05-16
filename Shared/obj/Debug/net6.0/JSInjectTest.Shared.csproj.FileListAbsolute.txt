@@ -1,0 +1,12 @@
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\bin\Debug\net6.0\JSInjectTest.Shared.deps.json
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\bin\Debug\net6.0\JSInjectTest.Shared.dll
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\bin\Debug\net6.0\JSInjectTest.Shared.pdb
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\JSInjectTest.Shared.csproj.AssemblyReference.cache
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\JSInjectTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\JSInjectTest.Shared.AssemblyInfoInputs.cache
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\JSInjectTest.Shared.AssemblyInfo.cs
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\JSInjectTest.Shared.csproj.CoreCompileInputs.cache
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\JSInjectTest.Shared.dll
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\refint\JSInjectTest.Shared.dll
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\JSInjectTest.Shared.pdb
+C:\Dropbox\Programming\BlazorProjects\JSInjectTest\Shared\obj\Debug\net6.0\ref\JSInjectTest.Shared.dll

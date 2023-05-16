@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSInjectTest.Server", "Server\JSInjectTest.Server.csproj", "{DA635AB2-6E5F-44F5-BFE1-52F2904D6B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSInjectTest.Client", "Client\JSInjectTest.Client.csproj", "{831AC23C-74B6-4C1D-A839-F82201651891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSInjectTest.Shared", "Shared\JSInjectTest.Shared.csproj", "{BECB8A3B-D4B3-4E41-B6EE-FB1601A3018E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA635AB2-6E5F-44F5-BFE1-52F2904D6B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA635AB2-6E5F-44F5-BFE1-52F2904D6B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA635AB2-6E5F-44F5-BFE1-52F2904D6B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA635AB2-6E5F-44F5-BFE1-52F2904D6B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831AC23C-74B6-4C1D-A839-F82201651891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831AC23C-74B6-4C1D-A839-F82201651891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831AC23C-74B6-4C1D-A839-F82201651891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831AC23C-74B6-4C1D-A839-F82201651891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECB8A3B-D4B3-4E41-B6EE-FB1601A3018E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECB8A3B-D4B3-4E41-B6EE-FB1601A3018E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECB8A3B-D4B3-4E41-B6EE-FB1601A3018E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECB8A3B-D4B3-4E41-B6EE-FB1601A3018E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52CB5B08-FE24-42EE-8A54-18361E1B8F30}
+	EndGlobalSection
+EndGlobal
